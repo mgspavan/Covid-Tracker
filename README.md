@@ -1,4 +1,4 @@
-# [Covid-Tracker](https://mgspavan.github.io/Covid-Tracker/)
+# [Covid-Tracker](covid-tracker-c4203)
 
 
 This Website Is Developed In ReactJs. With react-chartjs-2 Pie Chart
